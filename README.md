@@ -7,7 +7,7 @@ To clone the repository:
 git clone https://github.com/avecenob/tara-backend-ml.git
 ```
 
-Be sure to install all the required modules before working on it:  
+Make sure to install all the required modules before working on it:  
 ```
 pip install -r requirements.txt
 ```
