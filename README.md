@@ -2,7 +2,12 @@
 
 TARA API for Machine Learning Model built by CC Team using Flask. The API is used to retrieve a list of tourist attractions recommendations  
 
-Be sure to install all the required modules before using the API:  
+To clone the repository:
+```
+git clone https://github.com/avecenob/tara-backend-ml.git
+```
+
+Be sure to install all the required modules before working on it:  
 ```
 pip install -r requirements.txt
 ```
